@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34298'
     url: http://www.gutenberg.org/2009/agents/34298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45630#Bird-Guide--Land-Birds-East-of-the-RockiesFrom-Parrots-to-Bluebirds
 gutenberg_issued: '2014-05-11'
 gutenberg_type: Text
 identifiers:
